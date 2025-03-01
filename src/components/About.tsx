@@ -19,7 +19,7 @@ const About = () => {
         <div className="flex flex-col md:flex-row items-center gap-12">
           <div className="md:w-1/2">
             <img 
-              src="/public/Ravo.png" 
+              src="/Ravo.png" 
               alt="Doctor portrait" 
               className="rounded-lg shadow-lg w-full h-auto object-cover"
             />
